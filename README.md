@@ -1,5 +1,8 @@
 # Adobe Databricks Prep
 
+Learning resource used
+- https://app.pluralsight.com/library/courses/building-etl-pipeline-microsoft-azure-databricks/table-of-contents
+
 The repo contains 2 main folders
 - https://github.com/santhoshraj2960/adobe_databricks_prep/tree/main/notebooks/PSDemoFolder/PluralSightDemoProdSanthosh
     - This link contains the cleaned up ETL code for Yellow, Green and Fhv taxi trips. It also contains a master orchestration notebook which invokes the           yellow_taxi_etl_notebook, green_taxi_etl_notebook and fhv_taxi_etl_notebook. Used the notebooks in this folder to create a data orchestraion job from Azure         Data Factory.
